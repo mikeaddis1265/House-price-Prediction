@@ -233,10 +233,3 @@ Originally from: 1990 California Census
 - Implement ensemble methods combining multiple models
 - Build interactive dashboard for predictions
 
-## License
-
-This project is for educational purposes.
-
-## Acknowledgments
-
-Based on hands-on machine learning practices and the California Housing dataset from the 1990 census.
